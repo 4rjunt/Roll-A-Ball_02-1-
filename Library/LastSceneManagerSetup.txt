@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Level 5.unity
+=======
+- path: Assets/Scenes/Level 4.unity
+>>>>>>> master-copy
   isLoaded: 1
   isActive: 1
   isSubScene: 0
